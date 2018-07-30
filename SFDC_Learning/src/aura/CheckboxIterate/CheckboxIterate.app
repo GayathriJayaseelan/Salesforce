@@ -14,7 +14,7 @@
                 <strong>Mobile</strong>
             </td>
             <td>
-            	E-mail
+            	<strong>E-mail</strong>
             </td>
             <td>
             	<strong>Telegram</strong>
